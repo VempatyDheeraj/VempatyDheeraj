@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VempatyDheeraj
 - 👀 I’m interested in analysing the Data
-- 🌱 I’m Working in Data space for past 7+ years.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Working in Data space for past 12+ years.
+- 💞️ I’m open for any Data World conversations ...
 - 📫 How to reach me ...
 
 <!---
